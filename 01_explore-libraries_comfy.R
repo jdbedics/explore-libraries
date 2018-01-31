@@ -8,6 +8,7 @@
 ## use installed.packages() to get all installed packages
 ## if you like working with data frame or tibble, make it so right away!
 ## remember to use View() or similar to inspect
+library(tidyverse)
 data <- installed.packages()
 
 ## how many packages?
